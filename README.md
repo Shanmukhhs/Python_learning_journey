@@ -1,7 +1,7 @@
 # Python_learning_journey
 
 ## About Me
-My name is Aryan. I am a Class 11 CBSE student 
+My name is Shanmukh. I am a Class 11 CBSE student 
 with a goal of studying Robotics and AI.
 
 ## What This Repository Contains
