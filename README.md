@@ -32,7 +32,8 @@ A Python game where the user plays against the computer,which has a score counte
   
 ---
 
-##✅ Current status
+## ✅ Current status
+
 -Learning Functions
 
 ---
