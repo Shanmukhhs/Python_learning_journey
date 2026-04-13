@@ -1,4 +1,5 @@
 # 🐍 Python Learning Journey
+[yo](Stone-paper-scissors.py)
 
 ## 📌 About
 This repository contains my Python learning journey as I build my programming and problem-solving skills step by step.
