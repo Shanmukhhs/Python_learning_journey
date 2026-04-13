@@ -21,7 +21,7 @@ A Python game where the user guesses a randomly generated number in four turns.
 ### 🎮 Stone Paper Scissors Game  
 A Python game where the user plays against the computer,which has a score counter for both user and computer,has option to specify for how much score he/she wants to play.
 
-🔗 [Stone-paper-scissors-gamd](https://github.com/yourusername/stone-paper-scissors)
+🔗 [Stone-paper-scissors-gamd](Stone-paper-scissors.py)
 
 ---
 
