@@ -13,7 +13,7 @@ I am currently learning Python and Arduino by building small projects and improv
 ## 🛠️ Projects
 
 ### 🎯 Number Guessing Game  
-A Python game where the user guesses a randomly generated number in four turns.
+A Python game where the user guesses a randomly generated number(between 1-20) in four turns.
 🔗 [Number-guessing-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Number-guesser-game.py)
 
 ---
@@ -29,6 +29,11 @@ A Python game where the user plays against the computer,which has a score counte
 - Python (basics, loops, logic,if else statements)
 - Arduino (beginner)
 - Problem solving
+  
+---
+
+##✅ Current status
+-Learning Functions
 
 ---
 
