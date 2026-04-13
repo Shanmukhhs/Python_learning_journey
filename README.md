@@ -19,11 +19,11 @@ This repository contains my Python learning journey as I build my programming an
 
 ### 🎯 Number Guessing Game
 A game where the user tries to guess a randomly generated number.
-
 🔗[Number-guessing-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Number-guesser-game.py)
 
 ### 🎮 Stone Paper Scissors Game
 A game where the user plays against the computer.
+🔗[stone-paper-scissors-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Stone-paper-scissors.py)
 
 ---
 
