@@ -14,7 +14,7 @@ I am currently learning Python and Arduino by building small projects and improv
 
 ### 🎯 Number Guessing Game  
 A Python game where the user guesses a randomly generated number in four turns.
-🔗 [Number-guessing-game](https://github.com/yourusername/number-guessing-game)
+🔗 [Number-guessing-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Number-guesser-game.py)
 
 ---
 
