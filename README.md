@@ -11,7 +11,10 @@ This repository contains my Python learning journey as I build my programming an
 - Boolean and arithmetic operators
 - Conditional statements
 - coder
-- Basic logic building  
+- Basic logic building
+- Loops
+- Debugging
+- List
 
 ---
 
@@ -25,12 +28,17 @@ A game where the user tries to guess a randomly generated number.
 A game where the user plays against the computer.
 🔗[stone-paper-scissors-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Stone-paper-scissors.py)
 
+### 🔑 Password generator
+A program where a user can customize length of password, decide whether to add special character or not and can store recently created passwords.
+🔗[Password-generator](password_generator.py)
+
 ---
 
 ## 📈 Current Focus
-- Functions  
+
 - Writing cleaner and efficient code  
-- Improving problem solving  
+- Improving problem solving
+- Dictionary
 
 ---
 
