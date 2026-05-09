@@ -10,11 +10,12 @@ This repository contains my Python learning journey as I build my programming an
 - Built in functions
 - Boolean and arithmetic operators
 - Conditional statements
-- coder
 - Basic logic building
 - Loops
 - Debugging
 - List
+- Dictionaries and structuring data
+- Strings and text editing
 
 ---
 
@@ -31,6 +32,10 @@ A game where the user plays against the computer.
 ### 🔑 Password generator
 A program where a user can customize length of password, decide whether to add special character or not and can store recently created passwords.
 🔗[Password-generator](password_generator.py)
+
+###🗨️ℹ️ Smart Text Processor (Python Basics Graduation Project)
+A python command-line utility for processing and formatting clipboard text.
+
 
 ---
 
