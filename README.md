@@ -35,6 +35,7 @@ A program where a user can customize length of password, decide whether to add s
 
 ###🗨️ℹ️ Smart Text Processor (Python Basics Graduation Project)
 A python command-line utility for processing and formatting clipboard text.
+🔗[Smart-Text-Processor](Smart-Text-Processor.py)
 
 
 ---
@@ -43,7 +44,7 @@ A python command-line utility for processing and formatting clipboard text.
 
 - Writing cleaner and efficient code  
 - Improving problem solving
-- Dictionary
+- File handling
 
 ---
 
