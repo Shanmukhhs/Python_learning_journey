@@ -33,7 +33,7 @@ A game where the user plays against the computer.
 A program where a user can customize length of password, decide whether to add special character or not and can store recently created passwords.
 🔗[Password-generator](password_generator.py)
 
-###🗨️ℹ️ Smart Text Processor (Python Basics Graduation Project)
+### 🗨️ℹ️ Smart Text Processor (Python Basics Graduation Project)
 A python command-line utility for processing and formatting clipboard text.
 🔗[Smart-Text-Processor](Smart-Text-Processor.py)
 
