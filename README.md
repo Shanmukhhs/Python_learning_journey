@@ -6,9 +6,9 @@ This repository contains my Python learning journey as I build my programming an
 ---
 
 ## 🧠 What I Have Learned
--Complete Python Basics
--Regex
--Good and Bad practices of Programming
+- Complete Python Basics
+- Regex
+- Good and Bad practices of Programming
 
 ---
 
