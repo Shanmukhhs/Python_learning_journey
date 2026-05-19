@@ -6,16 +6,9 @@ This repository contains my Python learning journey as I build my programming an
 ---
 
 ## 🧠 What I Have Learned
-- Variables and data types  
-- Built in functions
-- Boolean and arithmetic operators
-- Conditional statements
-- Basic logic building
-- Loops
-- Debugging
-- List
-- Dictionaries and structuring data
-- Strings and text editing
+-Complete Python Basics
+-Regex
+-Good and Bad practices of Programming
 
 ---
 
@@ -36,6 +29,11 @@ A program where a user can customize length of password, decide whether to add s
 ### 🗨️ℹ️ Smart Text Processor (Python Basics Graduation Project)
 A python command-line utility for processing and formatting clipboard text.
 🔗[Smart-Text-Processor](Smart-Text-Processor.py)
+
+### 🔭 Regex Inspector CLI
+This project is a Python-based text analysis tool that extracts structured information from raw text. It identifies and categorizes important patterns such as email addresses, phone numbers, URLs, and dates using regular expressions.
+The tool reads text from the clipboard and provides a clean, formatted report of all detected patterns
+🔗[Regex-Inspector-CLI](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Regex-Inspector-CLI.py)
 
 
 ---
