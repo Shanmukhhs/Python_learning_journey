@@ -8,6 +8,7 @@ This repository contains my Python learning journey as I build my programming an
 ## 🧠 What I Have Learned
 - Complete Python Basics
 - Regex
+- File handling
 - Good and Bad practices of Programming
 
 ---
@@ -35,6 +36,10 @@ This project is a Python-based text analysis tool that extracts structured infor
 The tool reads text from the clipboard and provides a clean, formatted report of all detected patterns
 🔗[Regex-Inspector-CLI](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Regex-Inspector-CLI.py)
 
+### 📂 Smart File Assistant
+Smart file assistant is a python automation tool that scans a folder,categorizes files based on their extensions,generates useful statistics and automatically organizes files into respective category folders
+🔗 [Smart-File-Assistant](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Smart-File-Assistant.py)
+
 
 ---
 
@@ -42,7 +47,7 @@ The tool reads text from the clipboard and provides a clean, formatted report of
 
 - Writing cleaner and efficient code  
 - Improving problem solving
-- File handling
+- CSV file
 
 ---
 
