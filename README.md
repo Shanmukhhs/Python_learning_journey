@@ -47,7 +47,7 @@ Smart file assistant is a python automation tool that scans a folder,categorizes
 
 - Writing cleaner and efficient code  
 - Improving problem solving
-- CSV file
+- OOP
 
 ---
 
